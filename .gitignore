@@ -5,3 +5,5 @@
 *.gif
 *.csv
 *.brep
+*.FCStd1
+*.log
